@@ -1,0 +1,5 @@
+
+Guides:
+https://github.com/joaotavora/hunchensocket
+https://github.com/3b/clws
+https://github.com/fukamachi/websocket-driver

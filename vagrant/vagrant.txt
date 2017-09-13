@@ -1,0 +1,10 @@
+
+1. Basic commands:
+
+
+2. Guest additions:
+https://github.com/dotless-de/vagrant-vbguest
+~$ vagrant plugin install vagrant-vbguest
+
+3. Rsynced folders:
+https://stackoverflow.com/questions/31667516/vagrant-with-multiple-syncd-folders
