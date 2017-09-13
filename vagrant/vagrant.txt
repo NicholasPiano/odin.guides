@@ -8,3 +8,5 @@ https://github.com/dotless-de/vagrant-vbguest
 
 3. Rsynced folders:
 https://stackoverflow.com/questions/31667516/vagrant-with-multiple-syncd-folders
+https://www.vagrantup.com/docs/synced-folders/rsync.html
+https://www.vagrantup.com/docs/cli/rsync-auto.html
